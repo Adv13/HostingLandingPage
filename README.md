@@ -1,2 +1,2 @@
 # HostingLandingPage
-Landing page for Hosting/Hostels.
+Landing page for Hosting/Hostels template.
